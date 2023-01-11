@@ -1,1 +1,1 @@
-# reactPractice
+## React学習のためのリポジトリ
